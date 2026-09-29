@@ -30,6 +30,7 @@ scripts/hero.js          marquee loghi hero
 scripts/main.js          nav mobile, reveal allo scroll
 img/loghi/                loghi marchio (reali per Stiferite/Copernit, wordmark placeholder per gli altri)
 img/prodotti/              foto prodotto (reali per Stiferite/Copernit, stock coerenti per i placeholder)
+img/hero.webp            foto hero (stock, da sostituire)
 img/og.png, img/favicon.svg, img/apple-touch-icon.png   asset social/favicon placeholder
 DESIGN.md                documentazione del sistema visivo
 ```
@@ -47,6 +48,8 @@ DESIGN.md                documentazione del sistema visivo
   coerenti col settore ma da sostituire.
 - Logo del cliente non ancora disponibile: header e footer usano un wordmark
   testuale placeholder.
+- Foto hero (`img/hero.webp`, copertura in lamiera grecata): stock da Unsplash,
+  da sostituire con una foto reale del cliente quando disponibile.
 - Orari di apertura non forniti dalla scheda cliente, segnalati `[DA VERIFICARE]`.
 
 ## Pubblicazione (GitHub Pages)

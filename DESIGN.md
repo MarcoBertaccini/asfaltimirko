@@ -35,8 +35,8 @@ Nessun secondo colore decorativo: il verde pisello resta l'unico segnale cromati
 ## Layout
 
 - Contenitore `--maxw: 1280px`, gutter fluido `clamp(1rem, 4vw, 3rem)`.
-- Hero: titolo breve allineato a sinistra + striscia a scorrimento continuo dei 10 loghi marchio (unica animazione oltre al reveal, richiesta esplicitamente dal cliente).
-- Griglia marchi: 2 colonne (desktop), 1 (mobile), card cliccabili con immagine prodotto + nome marchio + un'unica riga di descrizione — non 3+ colonne uniformi.
+- Hero: titolo breve allineato a sinistra + foto editoriale a destra (stock, in attesa di materiale reale del cliente) + striscia a scorrimento continuo dei 10 loghi marchio (unica animazione oltre al reveal, richiesta esplicitamente dal cliente).
+- Griglia marchi: 2 colonne (desktop), 1 (mobile), card cliccabili con logo marchio (non foto prodotto) + nome + un'unica riga di descrizione — non 3+ colonne uniformi.
 - Pagina marchio: header con logo/nome + blurb breve, poi griglia prodotti 3 colonne (desktop) / 2 (mobile), niente pagina di dettaglio per singolo prodotto.
 - Divisori hairline (`--line`) usati con parsimonia, solo tra sezioni macro, non su ogni card.
 
