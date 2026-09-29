@@ -1,0 +1,36 @@
+:root {
+  /* Colore */
+  --stone: #e8eae3;
+  --stone-2: #dee1d7;
+  --surface: #f6f7f3;
+  --ink: #181a16;
+  --ink-soft: #565a4c;
+  --pea: #4e5c2a;
+  --pea-dark: #3b4620;
+  --line: #d2d5c7;
+  --ink-inv: #f6f7f3;
+  --surface-inv: #12130f;
+  --ok: #2f6b3a;
+
+  /* Tipografia */
+  --font-sans: "General Sans", -apple-system, "Segoe UI", sans-serif;
+  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.875rem);
+  --step-0: clamp(1rem, 0.96rem + 0.2vw, 1.125rem);
+  --step-1: clamp(1.2rem, 1.12rem + 0.4vw, 1.5rem);
+  --step-2: clamp(1.5rem, 1.36rem + 0.7vw, 2rem);
+  --step-3: clamp(1.9rem, 1.66rem + 1.2vw, 2.75rem);
+  --step-4: clamp(2.4rem, 2rem + 2vw, 3.75rem);
+  --step-5: clamp(2.25rem, 1.5rem + 5vw, 5rem);
+
+  /* Layout */
+  --maxw: 1280px;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --radius: 6px;
+  --radius-sm: 3px;
+
+  /* Motion */
+  --ease: ease;
+  --ease-out: ease-out;
+  --dur-1: 180ms;
+  --dur-2: 420ms;
+}
