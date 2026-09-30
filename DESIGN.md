@@ -68,4 +68,4 @@ img/prodotti/            immagini prodotto (reali per Stiferite/Copernit, stock 
 
 ## Nota sui dati
 
-Dati reali: ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF 04600230405, telefono 0543 795139, PEC asfalti.mirko@cert.cna.it, zona servita Forlì ed Emilia-Romagna. Marchi Stiferite e Copernit: nomi prodotto e descrizioni presi fedelmente dai rispettivi siti ufficiali. Marchi "Azienda 3"–"Azienda 10" e relativi prodotti sono placeholder dichiarati, da sostituire con i marchi reali del cliente.
+Dati reali: ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF 04600230405, telefono 0543 795139, email asfaltimirko@libero.it, PEC asfalti.mirko@cert.cna.it, zona servita Forlì ed Emilia-Romagna. Marchi Stiferite e Copernit: nomi prodotto e descrizioni presi fedelmente dai rispettivi siti ufficiali. Marchi "Azienda 3"–"Azienda 10" e relativi prodotti sono placeholder dichiarati, da sostituire con i marchi reali del cliente.

@@ -38,14 +38,15 @@ DESIGN.md                documentazione del sistema visivo
 ## Note sui contenuti
 
 - **Dati reali:** ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF
-  (04600230405), telefono (0543 795139), PEC (asfalti.mirko@cert.cna.it), zona servita
-  (Forlì ed Emilia-Romagna).
+  (04600230405), telefono (0543 795139), email (asfaltimirko@libero.it), PEC
+  (asfalti.mirko@cert.cna.it), zona servita (Forlì ed Emilia-Romagna).
 - **Marchi Stiferite e Copernit:** nomi prodotto, descrizioni e immagini presi
   fedelmente dai rispettivi siti ufficiali (stiferite.com, copernit.it).
 - **Marchi "Azienda 3"-"Azienda 10"** e i relativi prodotti sono placeholder
   dichiarati (segnalati `[DA VERIFICARE]` nel sito), da sostituire con i marchi
-  reali del cliente. Le foto prodotto associate sono stock generiche da Unsplash,
-  coerenti col settore ma da sostituire.
+  reali del cliente. Al posto del logo mostrano un'icona segnaposto "foto da
+  inserire" (nel carosello e nelle card); le foto prodotto associate sono stock
+  generiche da Unsplash, coerenti col settore ma da sostituire.
 - Logo del cliente non ancora disponibile: header e footer usano un wordmark
   testuale placeholder.
 - Foto hero (`img/hero.webp`, copertura in lamiera grecata): stock da Unsplash,

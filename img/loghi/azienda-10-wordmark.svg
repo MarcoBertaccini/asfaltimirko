@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 40" role="img" aria-label="Azienda 10">
-  <text x="0" y="27" font-family="Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.5" fill="#565a4c">AZIENDA 10</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-label="Azienda 10, logo da inserire">
+  <rect x="0.5" y="0.5" width="159" height="119" rx="10" fill="#dee1d7" stroke="#d2d5c7"/>
+  <rect x="42" y="24" width="76" height="52" rx="4" fill="none" stroke="#9a9d8f" stroke-width="3"/>
+  <circle cx="59" cy="39" r="6" fill="#9a9d8f"/>
+  <path d="M46 70 L64 50 L78 64 L96 42 L114 70 Z" fill="#c3c7b8"/>
+  <text x="80" y="100" font-family="Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.5" fill="#6b6f60" text-anchor="middle">AZIENDA 10</text>
 </svg>
