@@ -47,8 +47,10 @@ DESIGN.md                documentazione del sistema visivo
   reali del cliente. Al posto del logo mostrano un'icona segnaposto "foto da
   inserire" (nel carosello e nelle card); le foto prodotto associate sono stock
   generiche da Unsplash, coerenti col settore ma da sostituire.
-- Logo del cliente non ancora disponibile: header e footer usano un wordmark
-  testuale placeholder.
+- Logo del cliente: icona marchio (`img/loghi/asfalti-mirko-mark.svg`, variante
+  chiara per il footer) convertita dal file DWG fornito dal cliente e
+  ricolorata nel verde pisello del brand (il DWG usava un verde CAD generico).
+  Usata anche per favicon, apple-touch-icon e immagine social.
 - Foto hero (`img/hero.webp`, copertura in lamiera grecata): stock da Unsplash,
   da sostituire con una foto reale del cliente quando disponibile.
 - Orari di apertura non forniti dalla scheda cliente, segnalati `[DA VERIFICARE]`.
