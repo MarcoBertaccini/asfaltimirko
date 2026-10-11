@@ -1,6 +1,6 @@
-# DESIGN.md — Asfalti Mirko
+# DESIGN.md — Asfalti Mirko SRL
 
-Sistema visivo del sito dimostrativo. Concept: **campionario tecnico**. Asfalti Mirko non produce, rivende: il sito si comporta come uno schedario di materiali da costruzione (isolanti, membrane) organizzato per marchio, non come una landing commerciale. Riferimento di stile: Mutina (mutina.it) — non clonato, ne riprendiamo i principi: fotografia di prodotto protagonista, palette neutra e fredda, molto white space, griglia a 2 colonne per i contenuti in vetrina.
+Sistema visivo del sito. Concept: **campionario tecnico**. Asfalti Mirko SRL non produce, rivende: il sito si comporta come uno schedario di materiali da costruzione (isolanti, membrane) organizzato per marchio, non come una landing commerciale. Riferimento di stile: Mutina (mutina.it) — non clonato, ne riprendiamo i principi: fotografia di prodotto protagonista, palette neutra e fredda, molto white space, griglia a 2 colonne per i contenuti in vetrina.
 
 ## Principi
 

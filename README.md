@@ -1,7 +1,7 @@
-# Asfalti Mirko: sito (demo)
+# Asfalti Mirko SRL: sito
 
-Sito **dimostrativo** catalogo per *Asfalti Mirko srl*, rivenditore a Forlì di
-prodotti impermeabilizzanti e isolanti termici di circa dieci marchi diversi.
+Sito catalogo per *Asfalti Mirko SRL*, rivenditore a Forlì di prodotti
+impermeabilizzanti e isolanti termici di circa dieci marchi diversi.
 
 Statico, senza build né dipendenze: HTML, CSS e JavaScript vanilla.
 Identità visiva ispirata a Mutina (fotografia di prodotto, palette neutra fredda,
@@ -58,8 +58,8 @@ DESIGN.md                documentazione del sistema visivo
 ## Pubblicazione (GitHub Pages)
 
 Impostazioni - Pages - *Deploy from a branch* - `main` / `root`. Il sito è già
-relativo alle path, quindi funziona anche in sottocartella. Dominio previsto:
-`asfaltimirko.zenith-studio.it` (file `CNAME`).
+relativo alle path, quindi funziona anche in sottocartella. Dominio:
+`asfaltimirko.it` (file `CNAME`, DNS su Cloudflare, non gestito da qui).
 
 ---
-Sito realizzato come demo. Non è il sito ufficiale di Asfalti Mirko srl.
+Sito ufficiale di Asfalti Mirko SRL, pubblicato su `asfaltimirko.it`.

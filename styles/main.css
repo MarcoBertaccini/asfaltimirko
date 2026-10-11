@@ -86,18 +86,18 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 4.25rem;
+  min-height: 5rem;
 }
 .wordmark {
   display: inline-flex;
   align-items: center;
-  gap: 0.55rem;
-  font-size: 1.15rem;
+  gap: 0.65rem;
+  font-size: 1.4rem;
   font-weight: 600;
   letter-spacing: -0.01em;
   text-decoration: none;
 }
-.wordmark-icon { width: 26px; height: auto; flex-shrink: 0; }
+.wordmark-icon { width: 38px; height: auto; flex-shrink: 0; }
 .wordmark span { color: var(--pea); }
 .nav-links {
   display: flex;
@@ -124,7 +124,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   .nav-toggle { display: flex; }
   .nav-links {
     position: absolute;
-    inset: 4.25rem 0 auto 0;
+    inset: 5rem 0 auto 0;
     background: var(--stone);
     border-bottom: 1px solid var(--line);
     flex-direction: column;
