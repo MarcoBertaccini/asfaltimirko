@@ -1,7 +1,7 @@
 # Asfalti Mirko SRL: sito
 
 Sito catalogo per *Asfalti Mirko SRL*, rivenditore a Forlì di prodotti
-impermeabilizzanti e isolanti termici di circa dieci marchi diversi.
+impermeabilizzanti e isolanti termici di otto marchi diversi.
 
 Statico, senza build né dipendenze: HTML, CSS e JavaScript vanilla.
 Identità visiva ispirata a Mutina (fotografia di prodotto, palette neutra fredda,
@@ -20,19 +20,25 @@ poi visita `http://localhost:8125`.
 ## Struttura
 
 ```
-index.html              home: hero + striscia loghi + griglia 10 marchi + zona servita + contatti
-aziende/stiferite.html   pagina marchio reale, 5 prodotti
-aziende/copernit.html    pagina marchio reale, 4 prodotti
-aziende/azienda-3..10    pagine marchio placeholder, 5 prodotti segnaposto ciascuna
-styles/tokens.css        design tokens (colori, tipografia, spaziature)
-styles/main.css          layout e componenti
-scripts/hero.js          marquee loghi hero
-scripts/main.js          nav mobile, reveal allo scroll
-img/loghi/                loghi marchio (reali per Stiferite/Copernit, wordmark placeholder per gli altri)
-img/prodotti/              foto prodotto (reali per Stiferite/Copernit, stock coerenti per i placeholder)
-img/hero.webp            foto hero (stock, da sostituire)
-img/og.png, img/favicon.svg, img/apple-touch-icon.png   asset social/favicon placeholder
-DESIGN.md                documentazione del sistema visivo
+index.html                 home: hero + striscia loghi + griglia 8 marchi + zona servita + FAQ + contatti
+aziende/copernit.html      indice categorie Copernit (membrane, primer) + 6 sottopagine
+aziende/sekure.html        indice categorie Sekure (linee vita, accessori) + 2 sottopagine
+aziende/stiferite.html     pagina marchio
+aziende/isolex.html        pagina marchio
+aziende/knaufinsulation.html pagina marchio
+aziende/eternoivica.html   pagina marchio
+aziende/tema.html          pagina marchio
+aziende/coveritalia.html   pagina marchio
+styles/tokens.css          design tokens (colori, tipografia, spaziature)
+styles/main.css            layout e componenti
+scripts/hero.js            marquee loghi hero
+scripts/main.js            nav mobile, reveal allo scroll
+img/loghi/                 loghi marchio
+img/prodotti/               foto prodotto
+img/hero.webp              foto hero (stock, da sostituire)
+img/og.png, img/favicon.svg, img/apple-touch-icon.png   asset social/favicon
+robots.txt, sitemap.xml    indicizzazione motori di ricerca
+DESIGN.md                  documentazione del sistema visivo
 ```
 
 ## Note sui contenuti
@@ -40,13 +46,9 @@ DESIGN.md                documentazione del sistema visivo
 - **Dati reali:** ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF
   (04600230405), telefono (0543 795139), email (asfaltimirko@libero.it), PEC
   (asfalti.mirko@cert.cna.it), zona servita (Forlì ed Emilia-Romagna).
-- **Marchi Stiferite e Copernit:** nomi prodotto, descrizioni e immagini presi
-  fedelmente dai rispettivi siti ufficiali (stiferite.com, copernit.it).
-- **Marchi "Azienda 3"-"Azienda 10"** e i relativi prodotti sono placeholder
-  dichiarati (segnalati `[DA VERIFICARE]` nel sito), da sostituire con i marchi
-  reali del cliente. Al posto del logo mostrano un'icona segnaposto "foto da
-  inserire" (nel carosello e nelle card); le foto prodotto associate sono stock
-  generiche da Unsplash, coerenti col settore ma da sostituire.
+- **Tutti gli otto marchi** (Copernit, Stiferite, Isolex, Knauf Insulation,
+  Eternoivica, TeMa, Cover Italia, Sekure): nomi prodotto, descrizioni, loghi e
+  foto presi fedelmente dai rispettivi siti ufficiali.
 - Logo del cliente: icona marchio (`img/loghi/asfalti-mirko-mark.svg`, variante
   chiara per il footer) convertita dal file DWG fornito dal cliente e
   ricolorata nel verde pisello del brand (il DWG usava un verde CAD generico).

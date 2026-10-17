@@ -57,15 +57,16 @@ Nessun secondo colore decorativo: il verde pisello resta l'unico segnale cromati
 
 ```
 index.html              home: hero + striscia loghi + griglia marchi + zona servita + contatti
-aziende/<slug>.html      una pagina per marchio (stesso template, 10 pagine)
+aziende/<slug>.html      una pagina per marchio (stesso template, 8 marchi; Copernit e Sekure hanno
+                         anche un indice categorie con sottopagine)
 styles/tokens.css        design tokens
 styles/main.css          layout e componenti
 scripts/hero.js          marquee loghi hero
 scripts/main.js          nav mobile, reveal allo scroll
-img/loghi/               loghi marchio (reali per Stiferite/Copernit, wordmark placeholder per gli altri)
-img/prodotti/            immagini prodotto (reali per Stiferite/Copernit, stock coerenti per i placeholder)
+img/loghi/               loghi marchio
+img/prodotti/            immagini prodotto
 ```
 
 ## Nota sui dati
 
-Dati reali: ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF 04600230405, telefono 0543 795139, email asfaltimirko@libero.it, PEC asfalti.mirko@cert.cna.it, zona servita Forlì ed Emilia-Romagna. Marchi Stiferite e Copernit: nomi prodotto e descrizioni presi fedelmente dai rispettivi siti ufficiali. Marchi "Azienda 3"–"Azienda 10" e relativi prodotti sono placeholder dichiarati, da sostituire con i marchi reali del cliente.
+Dati reali: ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF 04600230405, telefono 0543 795139, email asfaltimirko@libero.it, PEC asfalti.mirko@cert.cna.it, zona servita Forlì ed Emilia-Romagna. Tutti gli otto marchi (Copernit, Stiferite, Isolex, Knauf Insulation, Eternoivica, TeMa, Cover Italia, Sekure): nomi prodotto e descrizioni presi fedelmente dai rispettivi siti ufficiali.
