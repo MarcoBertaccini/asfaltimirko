@@ -99,6 +99,9 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 .wordmark-icon { width: 38px; height: auto; flex-shrink: 0; }
 .wordmark span { color: var(--pea); }
+.nav .wordmark { font-size: 1.75rem; color: var(--logo-green); }
+.nav .wordmark-icon { width: 50px; }
+.nav .wordmark span { color: var(--logo-green); }
 .nav-links {
   display: flex;
   gap: clamp(1.25rem, 3vw, 2.25rem);
