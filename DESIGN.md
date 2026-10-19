@@ -69,4 +69,4 @@ img/prodotti/            immagini prodotto
 
 ## Nota sui dati
 
-Dati reali: ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF 04600230405, telefono 0543 795139, email asfaltimirko@libero.it, PEC asfalti.mirko@cert.cna.it, zona servita Forlì ed Emilia-Romagna. Tutti gli otto marchi (Copernit, Stiferite, Isolex, Knauf Insulation, Eternoivica, TeMa, Cover Italia, Sekure): nomi prodotto e descrizioni presi fedelmente dai rispettivi siti ufficiali.
+Dati reali: ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF 04600230405, telefono 0543 795139, email asfaltimirkosrl@libero.it, PEC asfalti.mirko@cert.cna.it, zona servita Forlì ed Emilia-Romagna. Tutti gli otto marchi (Copernit, Stiferite, Isolex, Knauf Insulation, Eternoivica, TeMa, Cover Italia, Sekure): nomi prodotto e descrizioni presi fedelmente dai rispettivi siti ufficiali.

@@ -44,7 +44,7 @@ DESIGN.md                  documentazione del sistema visivo
 ## Note sui contenuti
 
 - **Dati reali:** ragione sociale, indirizzo (Via Selo 29, 47122 Forlì FC), P.IVA/CF
-  (04600230405), telefono (0543 795139), email (asfaltimirko@libero.it), PEC
+  (04600230405), telefono (0543 795139), email (asfaltimirkosrl@libero.it), PEC
   (asfalti.mirko@cert.cna.it), zona servita (Forlì ed Emilia-Romagna).
 - **Tutti gli otto marchi** (Copernit, Stiferite, Isolex, Knauf Insulation,
   Eternoivica, TeMa, Cover Italia, Sekure): nomi prodotto, descrizioni, loghi e
@@ -55,7 +55,6 @@ DESIGN.md                  documentazione del sistema visivo
   Usata anche per favicon, apple-touch-icon e immagine social.
 - Foto hero (`img/hero.webp`, copertura in lamiera grecata): stock da Unsplash,
   da sostituire con una foto reale del cliente quando disponibile.
-- Orari di apertura non forniti dalla scheda cliente, segnalati `[DA VERIFICARE]`.
 
 ## Pubblicazione (GitHub Pages)
 
